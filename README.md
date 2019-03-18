@@ -15,3 +15,9 @@ Example of how to properly enqueue scripts/styles in a theme
 
 ## wp-instagram-feed.php
 Example function to retrieve an instagram feed via WordPress wp_remote_get.
+
+## php-sharpspring-api
+Example of pure php API connection
+
+## datebase-singleton-class.php
+Example class to connect to DB via and instance (more secure)
