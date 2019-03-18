@@ -1,4 +1,4 @@
-# ualr-code-samples
+# code-samples
 Examples below:
 
 ## wordpress-as-module-scaffold
