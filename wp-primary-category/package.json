@@ -1,0 +1,24 @@
+{
+  "name"      : "jss-primary-category",
+  "author"    : "Jason SKinner",
+  "version"   : "1.0.0",
+  "license"   : "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonskinner/WordPress-Primary-Category"
+  },
+  "description"     : "",
+  "dependencies"   : "",
+  "devDependencies": {
+    "gulp"                      : "*",
+    "gulp-autoprefixer"         : "*",
+    "gulp-concat"               : "*",
+    "gulp-notify"               : "*",
+    "gulp-rename"               : "*",
+    "gulp-sass"                 : "*",
+    "gulp-sourcemaps"           : "*",
+    "gulp-uglify"               : "*",
+    "gulp-uglifycss"            : "*",
+    "async-once"                : "*"
+  }
+}
