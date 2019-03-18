@@ -20,4 +20,4 @@ Example function to retrieve an instagram feed via WordPress wp_remote_get.
 Example of pure php API connection
 
 ## datebase-singleton-class.php
-Example class to connect to DB via and instance (more secure)
+Example class to connect to DB via and instance (more secure). After the connection you can either us SQL queries, PDO or third party libraries. PDO usually does the trick.
